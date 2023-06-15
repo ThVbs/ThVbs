@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A653&height=120&section=header"/>
 
 
 <div align="center">
   <h1><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="200px"></h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Th.Vbs;I+am+from+Brazil;And+I+study+systems+development+at+Sesi+Senai;But+i+like+so+much+ethical+hacking;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26A653&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Th.Vbs;I+am+from+Brazil;And+I+study+systems+development+at+Sesi+Senai;But+i+like+so+much+ethical+hacking;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThVbs&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=c9d1d9&bg_color=0d1117" alt="Th.Vbs github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThVbs&layout=compact&hide_border=true&title_color=8B0000&text_color=8B0000&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThVbs&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Th.Vbs github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThVbs&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
 </div>
 
 ### Main skills:
@@ -47,4 +47,4 @@
 <div align="center">
   <h1> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="80px"></h1>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26A653&height=120&section=footer"/>
