@@ -5,7 +5,7 @@
   <h1><img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="200px"></h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26A653&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Th.Vbs;I+am+from+Brazil;And+I+study+systems+development+at+Sesi+Senai;But+i+like+so+much+ethical+hacking;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=26A653&size=35&center=true&vCenter=true&width=1000&lines=HELLO+strange;+My+Name+is+Th.Vbs;I+am+from+Brazil;And+I+study+systems+development+at+Sesi+Senai;And+i+like+ethical+hacking+at+the+free+times+hehe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThVbs&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Th.Vbs github stats" /> 
